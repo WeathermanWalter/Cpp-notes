@@ -12,7 +12,7 @@ double hash::get_hash(unsigned char * input) const
 
 //const function
 const <return value> <class>::<member-function>(<args>)
-//The <return object cannot be changed once its returned
+//The <return object> cannot be changed once its returned
 const std::vector get_input();
 
 //const argument
